@@ -29,6 +29,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) 
 ![ShadCN](https://img.shields.io/badge/ShadCN-%23888888.svg?style=for-the-badge&logo=shadcn&logoColor=white)
+![Clerk](https://img.shields.io/badge/clerk-%236C2E91.svg?style=for-the-badge&logo=clerk&logoColor=white)
+![Android](https://img.shields.io/badge/android-%2335495e.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
+
+
 
 # 📊 GitHub Stats:
 
