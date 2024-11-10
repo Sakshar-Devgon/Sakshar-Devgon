@@ -49,6 +49,10 @@
     </tr>
   </table>
 </div>
+## 🏆 Holopin Badges (Hacktober Fest)
+
+[![An image of @sakshardevgon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakshardevgon)](https://holopin.io/@sakshardevgon)
+
 
 [![](https://visitcount.itsvg.in/api?id=Sakshar-Devgon&icon=0&color=0)](https://visitcount.itsvg.in)
 
