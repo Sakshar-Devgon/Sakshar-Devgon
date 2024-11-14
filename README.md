@@ -37,22 +37,20 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Sakshar-Devgon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshar-Devgon&theme=dark&hide_border=false" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshar-Devgon&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: space-around; width: 100%;">
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sakshar-Devgon&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+    </div>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshar-Devgon&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+    </div>
+  </div>
 </div>
+
+
+
+
+
 ## 🏆 Holopin Badges (Hacktober Fest)
 
 [![An image of @sakshardevgon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakshardevgon)](https://holopin.io/@sakshardevgon)
